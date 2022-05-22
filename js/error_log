@@ -1,0 +1,5 @@
+[15-May-2022 16:25:51 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ';' in /home/yonatanpo/public_html/js/contact.php on line 35
+[15-May-2022 16:26:00 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ';' in /home/yonatanpo/public_html/js/contact.php on line 35
+[21-May-2022 14:38:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/yonatanpo/public_html/js/contact.php on line 55
+[21-May-2022 14:39:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/yonatanpo/public_html/js/contact.php on line 55
+[21-May-2022 14:43:35 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/yonatanpo/public_html/js/contact.php on line 33
